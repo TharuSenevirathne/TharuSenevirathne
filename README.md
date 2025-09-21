@@ -42,7 +42,7 @@
 
 <h3>About Me 🧠 </h3>
 
-<p>I am a passionate Full Stack Developer with a strong foundation in building dynamic, scalable, and user friendly applications. My expertise spans both frontend and backend development, where I enjoy designing sleek interfaces while also architecting powerful, secure server side solutions. I work with modern technologies such as Html, Css, JavaScript, React, TypeScript, Node.js, Java, Python, Spring Boot, and MySQL, MongoDB, and I am constantly exploring new frameworks and tools to stay ahead in the rapidly evolving tech landscape. <br> <br>
+<p>I am a passionate Full Stack Developer with a strong foundation in building dynamic, scalable, and user friendly applications. My expertise spans both frontend and backend development, where I enjoy designing sleek interfaces while also architecting powerful, secure server side solutions. I work with modern technologies such as Java, Python, Html, css, TailwindCSS, JavaScript, PHP, Bootstrap, Spring, SpringBoot, React, TypeScript, npm, pandas, Numpy, Matpotlib, and MySQL, MongoDB, and I am constantly exploring new frameworks and tools to stay ahead in the rapidly evolving tech landscape. <br> <br>
                Beyond coding, I thrive on solving complex problems, optimizing performance, and transforming ideas into real world digital solutions. With experience in both independent projects and collaborative team environments, I value clean code, best practices, and continuous learning. My mission is to create meaningful applications that not only meet technical requirements but also deliver excellent user experiences and long term business value.</p> <hr>
 
 
