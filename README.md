@@ -1,6 +1,3 @@
-<pre oncontextmenu="return false;">
-<code>
-
 
 <h1 align="center">Hi ✌🏻, I'm Tharu Senevirathne<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80" /></h1>
 <h3 align="center">A Passionate Fullstack Developer from Sri Lanka📍 </h3><br>
@@ -41,7 +38,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30"/>
   </a>
 </p>
-</div> 
+</div>
 <hr>
 
 <h3>About Me 🧠 </h3>
@@ -114,14 +111,9 @@
       </td>
     </tr>
   </table>
-</p>
+</p><br>
 
 <hr>
 <h4 text="bold" align="center">Let’s collaborate to develop innovative and impactful software solutions together! <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"></h4>
 
-<br><br><br>
-
-
-  
-</code>
-</pre>
+<br><br>
