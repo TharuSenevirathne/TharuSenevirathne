@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tharu Senevirathne <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80" /></h1>
-<h3 align="center">Engineering the Future | Undergraduate Coder 🎓</h3><br>
+<h1 align="center">Hi ✌🏻, I'm Tharu Senevirathne<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80" /></h1>
+<h3 align="center">A Passionate Fullstack Developer from Sri Lanka📍 </h3><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharusenevirathne&label=Profile%20views&color=0e75b6&style=flat" alt="tharusenevirathne" /> </p><br>
 
-<p align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 180px ></p><br>
+<p align="center"><img src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6BAZapEOZHmgmWGAmYztiQ_hxI02UeID3Q&s)" width = 180px ></p><br>
 
 - 🎓 Undergraduate Student **| Computer Science**
 
