@@ -1,3 +1,7 @@
+<pre oncontextmenu="return false;">
+<code>
+
+
 <h1 align="center">Hi ✌🏻, I'm Tharu Senevirathne<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80" /></h1>
 <h3 align="center">A Passionate Fullstack Developer from Sri Lanka📍 </h3><br>
 
@@ -118,9 +122,6 @@
 <br><br><br>
 
 
-
-<!--- stats (end) -->
-
-
-
-
+  
+</code>
+</pre>
