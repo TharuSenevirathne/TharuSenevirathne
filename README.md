@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharusenevirathne&label=Profile%20views&color=0e75b6&style=flat" alt="tharusenevirathne" /> </p><br>
 
-<p align="center"><img src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6BAZapEOZHmgmWGAmYztiQ_hxI02UeID3Q&s)" width = 180px ></p><br>
+<p align="center"><img src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true]" width = 180px ></p><br>
 
 - 🎓 Undergraduate Student **| Computer Science**
 
